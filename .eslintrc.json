@@ -30,6 +30,8 @@
     "react-native/sort-styles": "off",
     "react-native/no-inline-styles": "off",
     "global-require": "off",
+    "react/no-unused-state": "off",
+    "no-underscore-dangle": "off",
     "react-native/no-raw-text": "off"
   },
   "settings": {
